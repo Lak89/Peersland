@@ -1,0 +1,4 @@
+D:\PeerislandsTest\PeerislandsTest\obj\Release\net5.0\PeerislandsTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\PeerislandsTest\PeerislandsTest\obj\Release\net5.0\PeerislandsTest.AssemblyInfoInputs.cache
+D:\PeerislandsTest\PeerislandsTest\obj\Release\net5.0\PeerislandsTest.AssemblyInfo.cs
+D:\PeerislandsTest\PeerislandsTest\obj\Release\net5.0\PeerislandsTest.csproj.CoreCompileInputs.cache

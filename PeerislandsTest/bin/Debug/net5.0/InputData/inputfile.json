@@ -1,0 +1,19 @@
+{
+  "columns": [
+    {
+      "operator": "=",
+      "fieldName": "Name",
+      "fieldValue": "'Lakshman'"
+    },
+    {
+      "operator": ">",
+      "fieldName": "Age",
+      "fieldValue": "30"
+    },
+	 {
+      "operator": "=",
+      "fieldName": "City",
+      "fieldValue": "'Pune'"
+    }
+  ]
+}

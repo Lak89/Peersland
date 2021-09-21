@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ShrmvR6+Obmnf3A+PD2qzqVTgmgN5bQHHIBn+CudpJ2bv2xuIGBIz1uIu313mFJzDGKupOyWjQDkte753/VqDA==",
+  "success": true,
+  "projectFilePath": "D:\\PeerislandsTest\\PeerislandsTest\\PeerislandsTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\z004239u\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.10\\microsoft.aspnetcore.jsonpatch.5.0.10.nupkg.sha512",
+    "C:\\Users\\z004239u\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.10\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.10.nupkg.sha512",
+    "C:\\Users\\z004239u\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\z004239u\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\z004239u\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
